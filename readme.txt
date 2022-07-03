@@ -1,2 +1,2 @@
-Git a distributed version control system.
+Git a distributed(changed) version control system.
 Git free software.
